@@ -1,3 +1,7 @@
+/*
+Title: 8th Practice; Making a race day bib and age checker, through else and if statements 
+*/
+
 let raceNumber = Math.floor(Math.random() * 1000);
 
 let early = false;
