@@ -1,3 +1,7 @@
+/*
+Title: 9th Practice; Making functions, with if statements and switches and declarations. 
+*/
+
 const getUserChoice = userInput => {
   userInput = userInput.toLowerCase();
   if (userInput === 'rock' || 
