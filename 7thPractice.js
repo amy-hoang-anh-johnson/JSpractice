@@ -1,3 +1,7 @@
+/*
+Title: 7th Practice; Making a Magic 8 Ball, through random, switches. 
+*/
+
 var userName = "Amy";
 
 userName ? console.log(`Hello, ${userName}!`) : console.log('Hello!');
