@@ -1,4 +1,6 @@
-//Else if statements
+/*
+Title: 5th Practice; Multiple Else If statements
+*/
 
 let season = 'summer';
 
