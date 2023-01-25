@@ -1,3 +1,7 @@
+/*
+Title: 2nd Practice; Multiplication, adding variables together, lower and upper case, and `` string. 
+*/
+
 //my age
 var myAge = 24;
 
