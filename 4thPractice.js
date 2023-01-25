@@ -1,3 +1,6 @@
+/*
+Title: 4th Practice; Ternary Operators
+*/
 //Ternary Operators
 
 let isLocked = false;
