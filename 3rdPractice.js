@@ -1,5 +1,5 @@
 /*
-Title: 3rd Practice; If and Else statements, conditionals
+Title: 3rd Practice; If and Else statements, conditionals (logic operators)
 */
 
 let mood = 'sleepy';
