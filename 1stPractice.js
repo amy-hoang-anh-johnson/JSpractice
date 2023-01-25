@@ -1,3 +1,7 @@
+/* 
+Title: 1st Practice: Introducing Variables (lets, variables, constants), Math operations, printing to the consoles
+*/
+
 //constant
 const kelvin = 0;
 
