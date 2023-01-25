@@ -1,4 +1,6 @@
-//Switch and breaks
+/*
+Title: 6th Practice; Switch and Break statements 
+*/
 
 let athleteFinalPosition = 'first place';
 
