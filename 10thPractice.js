@@ -1,4 +1,6 @@
-// 
+/*
+Title: 10th Practice; 
+*/
 
 const getRandEvent = () => {
   const random = Math.floor(Math.random() * 3);
